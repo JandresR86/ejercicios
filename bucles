@@ -1,0 +1,201 @@
+Ejercicio 1
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
+
+Ejercicio 2
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle while.
+
+Ejercicio 3
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle do-while.
+
+Ejercicio 4
+Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás
+utilizando un bucle for.
+
+Ejercicio 5
+Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás
+utilizando un bucle while.
+
+Ejercicio 6
+Muestra los números del 320 al 160, contando de 20 en 20 utilizando un bucle
+do-while.
+
+Ejercicio 7
+Realiza el control de acceso a una caja fuerte. La combinación será un
+número de 4 cifras. El programa nos pedirá la combinación para abrirla. Si no
+acertamos, se nos mostrará el mensaje “Lo siento, esa no es la combinación”
+y si acertamos se nos dirá “La caja fuerte se ha abierto satisfactoriamente”.
+Tendremos cuatro oportunidades para abrir la caja fuerte.
+
+Ejercicio 8
+Muestra la tabla de multiplicar de un número introducido por teclado 
+
+Ejercicio 9
+Realiza un programa que nos diga cuántos dígitos tiene un número introducido
+por teclado.
+
+Ejercicio 10
+Escribe un programa que calcule la media de un conjunto de números positivos
+introducidos por teclado. A priori, el programa no sabe cuántos números se
+introducirán. El usuario indicará que ha terminado de introducir los datos
+cuando meta un número negativo.
+
+Ejercicio 11
+Escribe un programa que muestre en tres columnas, el cuadrado y el cubo de
+los 5 primeros números enteros a partir de uno que se introduce por teclado.
+
+Ejercicio 12
+Escribe un programa que muestre los n primeros términos de la serie de
+Fibonacci. El primer término de la serie de Fibonacci es 0, el segundo es 1
+y el resto se calcula sumando los dos anteriores, por lo que tendríamos que
+los términos son 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144… El número n se
+debe introducir por teclado.
+
+Ejercicio 13
+Escribe un programa que lea una lista de diez números y determine cuántos
+son positivos, y cuántos son negativos.
+
+Ejercicio 14
+Escribe un programa que pida una base y un exponente (entero positivo) y
+que calcule la potencia.
+
+Ejercicio 15
+Escribe un programa que dados dos números, uno real (base) y un entero
+positivo (exponente), saque por pantalla todas las potencias con base el
+numero dado y exponentes entre uno y el exponente introducido. No se deben
+utilizar funciones de exponenciación. Por ejemplo, si introducimos el 2 y el 5,
+se deberán mostrar 21, 22, 23, 24 y 25
+
+Ejercicio 16
+Escribe un programa que diga si un número introducido por teclado es o no
+primo. Un número primo es aquel que sólo es divisible entre él mismo y la
+unidad.
+
+Ejercicio 17
+Realiza un programa que sume los 100 números siguientes a un número entero
+y positivo introducido por teclado. Se debe comprobar que el dato introducido
+es correcto (que es un número positivo).
+
+Ejercicio 18
+Escribe un programa que obtenga los números enteros comprendidos entre
+dos números introducidos por teclado y validados como distintos, el programa
+debe empezar por el menor de los enteros introducidos e ir incrementando de
+7 en 7.
+
+Ejercicio 19
+Realiza un programa que pinte una pirámide por pantalla. La altura se debe
+pedir por teclado. El carácter con el que se pinta la pirámide también se debe
+pedir por teclado.
+
+Ejercicio 20
+Igual que el ejercicio anterior pero esta vez se debe pintar una pirámide hueca.
+
+Ejercicio 21
+Realiza un programa que vaya pidiendo números hasta que se introduzca un
+numero negativo y nos diga cuantos números se han introducido, la media de
+los impares y el mayor de los pares. El número negativo sólo se utiliza para
+indicar el final de la introducción de datos pero no se incluye en el cómputo.
+
+Ejercicio 22
+Muestra por pantalla todos los números primos entre 2 y 100, ambos incluidos
+
+Ejercicio 23
+Escribe un programa que permita ir introduciendo una serie indeterminada
+de números mientras su suma no supere el valor 10000. Cuando esto último
+ocurra, se debe mostrar el total acumulado, el contador de los números
+introducidos y la media.
+
+Ejercicio 24
+Escribe un programa que lea un número n e imprima una pirámide de números
+con n filas como en la siguiente figura:
+   1
+  121
+ 12321
+1234321
+
+Ejercicio 25
+Realiza un programa que pida un número por teclado y que luego muestre ese
+número al revés.
+
+Ejercicio 26
+Realiza un programa que pida primero un número y a continuación un dígito.
+El programa nos debe dar la posición (o posiciones) contando de izquierda a
+derecha que ocupa ese dígito en el número introducido.
+
+Ejercicio 27
+Escribe un programa que muestre, cuente y sume los múltiplos de 3 que hay
+entre 1 y un número leído por teclado.
+
+Ejercicio 28
+Escribe un programa que calcule el factorial de un número entero leído por
+teclado.
+
+Ejercicio 29
+Escribe un programa que muestre por pantalla todos los números enteros
+positivos menores a uno leído por teclado que no sean divisibles entre otro
+también leído de igual forma
+
+Ejercicio 30
+Realiza una programa que calcule las horas transcurridas entre dos horas de
+dos días de la semana. No se tendrán en cuenta los minutos ni los segundos.
+El día de la semana se puede pedir como un número (del 1 al 7) o como
+una cadena (de “lunes” a “domingo”). Se debe comprobar que el usuario
+introduce los datos correctamente y que el segundo día es posterior al primero.
+A continuación se muestra un ejemplo:
+Por favor, introduzca la primera hora.
+Día: lunes
+Hora: 18
+Por favor, introduzca la segunda hora.
+Día: martes
+Hora: 20
+Entre las 18:00h del lunes y las 20:00h del martes hay 26 hora/s
+
+Ejercicio 31
+Escribe un programa que, dado un número entero, diga cuáles son y cuánto
+suman los dígitos pares. Los dígitos pares se deben mostrar en orden, de
+izquierda a derecha. Usa long en lugar de int donde sea necesario para admitir
+números largos.
+Ejemplo 1:
+Por favor, introduzca un número entero positivo: 94026782
+Dígitos pares: 4 0 2 6 8 2
+Suma de los dígitos pares: 22
+Ejemplo 2:
+Por favor, introduzca un número entero positivo: 31779
+Dígitos pares:
+Suma de los dígitos pares: 0
+Ejemplo 3:
+Por favor, introduzca un número entero positivo: 2404
+Dígitos pares: 2 4 0 4
+Suma de los dígitos pares: 10
+
+Ejercicio 32
+Realiza un programa que pinte la letra U por pantalla hecha con asteriscos. El
+programa pedirá la altura. Fíjate que el programa inserta un espacio y pinta
+dos asteriscos menos en la base para simular la curvatura de las esquinas
+inferiores.
+Ejemplo:
+Introduzca la altura de la U: 5
+*       *
+*       *
+*       *
+*       *
+  * * *
+  
+ Ejercicio 33
+Escribe un programa que pida dos números por teclado y que luego mezcle en
+dos números diferentes los dígitos pares y los impares. Se van comprobando
+los dígitos de la siguiente manera: primer dígito del primer número, primer
+dígito del segundo número, segundo dígito del primer número, segundo
+dígito del segundo número, tercer dígito del primer número… Para facilitar
+el ejercicio, podemos suponer que el usuario introducirá dos números de la
+misma longitud y que siempre habrá al menos un dígito par y uno impar. Usa
+long en lugar de int donde sea necesario para admitir números largos.
+Ejemplo 1:
+Por favor, introduzca un número: 9402
+Introduzca otro número: 6782
+El número formado por los dígitos pares es 640822
+El número formado por los dígitos impares es 97
+Ejemplo 2:
+Por favor, introduzca un número: 137
+Introduzca otro número: 909
+El número formado por los dígitos pares es 0
+El número formado por los dígitos impares es 19379
